@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "branding": {
+    "name": "ai game builder",
+    "primary": "#fff6ba",
+    "secondary": "#baffd4",
+    "accent": "#bac2ff",
+    "background": "#ffffff",
+    "text": "#1a1a1a",
+    "fontFamily": "Rubik, system-ui, sans-serif",
+    "tone": "friendly"
+  },
+  "goal": "lead-collection",
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "eyebrow": "AI Game Builder",
+      "headline": "Generate playable games from a single prompt",
+      "subheadline": "Turn ideas into export-ready prototypes—no code, art, or engine setup.",
+      "background": {
+        "color": "#fff6ba",
+        "pattern": "gradient",
+        "emphasis": "medium"
+      }
+    },
+    {
+      "id": "problem",
+      "type": "problem",
+      "eyebrow": "Why this matters",
+      "headline": "Game creation is slow, fragmented, and pricey",
+      "subheadline": "Ideas die in handoff—assets, logic, levels, and testing rarely align.",
+      "bullets": [
+        "Prototypes take weeks—momentum fades before playtests.",
+        "Vague prompts become broken mechanics and mismatched assets.",
+        "Art, audio, and code rarely align without heavy rework.",
+        "Exports, performance, and QA drain time and budget."
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "solution",
+      "type": "solution",
+      "eyebrow": "What we built",
+      "headline": "An AI that ships a playable game for you",
+      "subheadline": "Describe your vision. Our AI assembles graphics, mechanics, levels, and polish into a coherent, testable build.",
+      "bullets": [
+        "Natural-language to mechanics, input, and rules.",
+        "Auto-generated art, audio, and levels in one style.",
+        "One-click playtest and export to Unity or Godot.",
+        "Smart passes for balance, performance, and bugs."
+      ],
+      "background": {
+        "color": "#baffd4",
+        "pattern": "diagonal",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "features",
+      "type": "features",
+      "eyebrow": "Key capabilities",
+      "headline": "Build, customize, and export—fast",
+      "items": [
+        {
+          "title": "Prompt‑to‑playable",
+          "description": "Describe genre, vibe, and goals. Get a playable loop with scenes, input, and core systems."
+        },
+        {
+          "title": "Auto assets, cohesive style",
+          "description": "AI art, audio, and levels generated to match mechanics and tone."
+        },
+        {
+          "title": "Live editor + tweaks",
+          "description": "Adjust rules, difficulty, or art style; regenerate parts without nuking progress."
+        },
+        {
+          "title": "One‑click export",
+          "description": "Package for web or export scaffolds to Unity/Godot for full control."
+        }
+      ],
+      "supportingCopy": "Prototype in minutes, iterate in clicks, and keep full creative control.",
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "testimonials",
+      "type": "testimonials",
+      "eyebrow": "Loved by creators",
+      "headline": "From idea to playable in hours",
+      "testimonials": [
+        {
+          "quote": "We spun up three prototypes in a weekend. Our client picked one on Monday.",
+          "name": "Jules A.",
+          "title": "Creative Director",
+          "company": "Indie Studio"
+        },
+        {
+          "quote": "My students actually playtest their ideas the same day. Total game-changer.",
+          "name": "Prof. Kim",
+          "title": "Game Design Instructor",
+          "company": "City College"
+        }
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "cta",
+      "type": "cta",
+      "eyebrow": "Get early access",
+      "headline": "Be first to build AI‑powered games",
+      "subheadline": "Join the waitlist to shape the roadmap and secure beta access.",
+      "bullets": [
+        "Limited beta slots for early creators",
+        "Your feedback steers features and exports",
+        "Early adopter perks and priority support"
+      ],
+      "background": {
+        "color": "#bac2ff",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    }
+  ]
+}
